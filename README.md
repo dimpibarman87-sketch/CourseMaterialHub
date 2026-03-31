@@ -67,6 +67,7 @@ CLOUDINARY_API_KEY = your_cloudinary_api_key
 
 CLOUDINARY_API_SECRET = your_cloudinary_api_secret
 
+
 Start the Server:
 
 Once the dependencies are installed and the `.env` file is set up, start your backend server:
