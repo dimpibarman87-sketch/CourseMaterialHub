@@ -11,19 +11,19 @@ The Course Material Hub is a web-based platform designed to help students and te
 
 # Project Structure
 
-├───backend
-│   ├───config/         # Database and third-party configuration
-│   ├───middleware/     # Express middlewares (e.g., authentication, upload handlers)
-│   ├───models/         # Mongoose database schemas
-│   ├───routes/         # API endpoints
-│   ├───upload/         # Local file upload processing
-│   ├───uploads/        # Temporary storage for local uploads
-│   ├───.env            # Environment variables (Create this locally)
-│   └───package.json    # Backend dependencies and scripts
-└───frontend
-    ├───index.html      # Main entry point
-    ├───css/            # Stylesheets
-    └───js/             # Client-side logic
+/├───backend
+/│   ├───config/         # Database and third-party configuration
+/│   ├───middleware/     # Express middlewares (e.g., authentication, upload handlers)
+/│   ├───models/         # Mongoose database schemas
+/│   ├───routes/         # API endpoints
+/│   ├───upload/         # Local file upload processing
+/│   ├───uploads/        # Temporary storage for local uploads
+/│   ├───.env            # Environment variables (Create this locally)
+/│   └───package.json    # Backend dependencies and scripts
+/└───frontend
+ /   ├───index.html      # Main entry point
+ /   ├───css/            # Stylesheets
+ /   └───js/             # Client-side logic
 
 # Getting Started
 
