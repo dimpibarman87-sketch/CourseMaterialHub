@@ -99,12 +99,3 @@ Since the frontend is built with vanilla HTML/CSS/JS, you don't need to install 
    ```
 3. Open `index.html` directly in your web browser, or for the best experience, use a local development server like the **Live Server** extension in VS Code.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
-```
-
-**To use this:**
-1. Copy the text inside the markdown block above.
-2. Create a file named `README.md` in the root directory of your project.
-3. Paste the text, update the GitHub link under the "Clone the Repository" step, and push it to your GitHub!
