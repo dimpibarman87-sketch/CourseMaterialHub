@@ -95,7 +95,7 @@ Since the frontend is built with HTML,CSS and JavaScript, you don't need to inst
 # Project Demo Video:
 
 You can watch the project working demo here:
-
+https://youtu.be/YDeX3kRaPow
 
 # Developed by:
   Ariesha R Marak
