@@ -1,8 +1,8 @@
 Here is a complete `README.md` template for your Course Material Hub. 
 
-Before diving into the README, I want to share a quick tip: I noticed your file tree includes the `node_modules` folder. When you upload your project to GitHub, you should **never** include `node_modules`. Instead, create a `.gitignore` file in your backend folder and add `node_modules/` to it. Anyone who downloads your project will generate their own module folder locally by running `npm install`!
+Before diving into the README, I want to share a quick tip: I noticed your file tree includes the `node_modules` folder. When you upload your project to GitHub, you should never include `node_modules`. Instead, create a `.gitignore` file in your backend folder and add `node_modules/` to it. Anyone who downloads your project will generate their own module folder locally by running `npm install`!
 
-Here is the markdown code for your `README.md` file:
+
 
 ```markdown
 # Course Material Hub 📚
