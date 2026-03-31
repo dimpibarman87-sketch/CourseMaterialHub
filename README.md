@@ -56,10 +56,15 @@ Environment Variables:
 Create a `.env` file in the root of the `backend` folder. Based on the project dependencies, you will likely need to configure the following variables:
 
 PORT=5000
+
 MONGO_URI = your_mongodb_connection_string
+
 JWT_SECRET = your_jwt_secret_key
+
 CLOUDINARY_CLOUD_NAME = your_cloudinary_name
+
 CLOUDINARY_API_KEY = your_cloudinary_api_key
+
 CLOUDINARY_API_SECRET = your_cloudinary_api_secret
 
 Start the Server:
